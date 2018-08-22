@@ -1,0 +1,143 @@
+
+div,header,ul,li,section,nav,footer,h1,h2,h3,h4 {margin:0;padding:0;}
+li { list-style: none; }
+a { text-decoration: none}
+
+.header,.mainArea > .newsNavigation, .mainArea > .content, .newsList > ul{
+	padding:10px;
+	border: 1px solid #cccaca;
+}
+
+.wrap{
+	width:800px;
+	margin: 150px auto 0px;
+}
+
+.wrap, .newsNavigation, .content {
+	height: 200px;
+}
+
+.header {
+	overflow: auto;
+	border-bottom: 0;
+}
+
+.header > ul{
+	float:left;
+}
+
+.header > ul > li {
+	display: inline-block;
+}
+
+.header > .btn {
+	float: right;
+	font-size: 1.2rem;
+}
+
+.left, .right {
+	display: inline-block;
+}
+
+.left {
+	margin-right: 10px;
+}
+
+.mainArea {
+	clear:both;
+	overflow: auto;
+}
+
+.newsList {
+	overflow: hidden;
+    clear: both;
+}
+
+.newsNavigation, .content , .newsList > ul{
+	float: left;
+	box-sizing: border-box;
+}
+
+.newsNavigation{
+	width:200px;
+	border-right: 0;
+}
+
+.newsNavigation li {
+	font-size: 13px;
+    cursor: pointer;
+    margin-bottom: 1%;
+}
+
+.newsNavigation a:hover {
+	text-decoration: underline;
+}
+
+.content {
+	width:600px;
+	overflow: auto;
+}
+
+.content > h4 {
+	height: 26px;
+}
+
+.content .logo-wrap {
+	float:left;
+}
+
+.content .company {
+	max-width: 80%;
+}
+
+.newsList > .img-title-wrap , .newsList > ul{
+	float: left;
+}
+
+.newsList > .img-title-wrap {
+	width : 38%;
+	position: relative;
+}
+
+.title-desc {
+	background-color: #4e4a4ae0;
+    position: absolute;
+    bottom: 5px;
+    width: 99%;
+    height: 45px;
+    color: #fff;
+    padding: 2%;
+    box-sizing: border-box;
+    font-size: 0.8em;
+}
+
+.newsList > ul {
+	margin-left:2%;
+	width : 60%;
+}
+	
+.newsList  img, .newsList > ul  {
+	height: 150px;
+}
+
+.newsList ul li {
+	text-overflow: ellipsis;
+    white-space: nowrap;
+	font-size: 14px;
+    margin: 2%;
+}
+
+.news-config {
+	margin-top: 5%;
+    width: 800px;
+}
+
+.news-config ul {
+	overflow: hidden;
+}
+
+.news-config li {
+	float:left;
+	width:20%;
+	margin-bottom: 3%;
+}

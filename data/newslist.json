@@ -1,0 +1,122 @@
+[{
+		"company": "경향신문",
+		"id": 1,
+		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd14372435.png",
+		"newslist": [
+			"[속보] 서울대공원 토막살인범 범행 은폐하려 시신까지 훼손", "김부선, 오늘 경찰 출석···이재명씨 법정에서", "안희정 보좌진, 김지은씨 악플 달다가 적발", "전두환, 광주 찾아 법정에 서나···‘출석 의사’", "추미애 대법, 사법적폐 감싸고 돌면 특별법", "여친 나체 몰카 찍어 본인에게 보냈다면···"
+		],
+		"thumbnews": {
+			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9001/110520_001.jpg",
+			"text": "[속보] 부가세 면제 자영업자 늘어나고 카드수수료 인하"
+		}
+	},
+	{
+		"company": "kbs",
+		"id": 2,
+		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd173124306.png",
+		"newslist": [
+			"[뉴스특보 LIVE] 짧디 짧은 3일 이산가족 작별 상봉", "[아시안게임 LIVE] 수영 남 접영 100m, 여 접영 200m", "‘솔릭’ 오늘 제주 영향권 …내일 밤 중부 서해안 상륙 ‘큰 피해 우려’", "‘짧은 만남 기약 없는 이별’ …오늘 작별 상봉, 모레 2차 상봉", "‘솔릭’ 발생 드문 ‘도넛 태풍’…한반도로 북상해도 위력 막강", "우리 젊은이들, 어디서 일자리 찾나?"
+		],
+		"thumbnews": {
+			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9044/110220_001.jpg",
+			"text":"당정 '영세·온라인 판매업자 카드 우대수수료 적용'"
+		}
+	},
+	{
+		"company": "조선일보",
+		"id": 3,
+		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd162718792.png",
+		"newslist": [
+			"건설현장 일용직 근로자 '중국 애들 때문에…' 푸념", "軍, 국방백서에서 '북한군은 우리의 적' 문구 삭제 검토", "성인도 못 버틸 강풍, 이틀간 한반도 덮친다", "1939년 中 보고서 '서로 헐뜯는 한국인… 시기·질투 극심'", "北인사들, 南취재진에 '文대통령 지지율 왜 떨어지냐'", "[뉴스유감] 조선일보가 통계 장난? 장난친 곳은 따로 있다"
+		],
+		"thumbnews": {
+			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9007/105201_001.jpg",
+			"text": "단독 남동발전, 北 석탄 수사중 대통령상 받아 논…"
+		}
+	},
+	{
+		"company": "mbc",
+		"id": 4,
+		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd17324940.png",
+		"newslist": [
+			"카드 우대수수료 확대·상가임차인 보호 강화", "마지막 작별 상봉…다시 기약 없는 이별", "폭염 속 전기료 평균 1만 7천 원 증가", "美 '대북 '석유 불법 환적' 러시아 기업·선박 제재'", "허익범 특검 수사기간 연장 요구 오늘 결정", "[AG] 대회 나흘째…펜싱·레슬링·역도 등 金 사냥"
+		],
+		"thumbnews": {
+			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9011/111735_001.jpg",
+			"text": "태풍 '솔릭' 한반도 향해 북상…오후 제주 직접 영향권"
+		}
+	},
+	{
+		"company": "노컷뉴스",
+		"id": 5,
+		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd143958887.png",
+		"newslist": [
+			"불에 약한 샌드위치 패널···15명 사상자 냈다", "'갇혀 있다' 화재 속 딸의 마지막 목소리", "박근혜 정부도 소득주도 성장정책 추진했었다", "당정, 소상공인·자영업자 지원대책 발표", "엽총 피해자 '경찰 신고하니 '예민하게 굴지마라'", "'낙동강 녹조는 재난···수도권이라면 정권 바뀔 사건'"
+		],
+		"thumbnews": {
+			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9028/104140_001.jpg",
+			"text": "'느리게 훑고 지나간다···더 위험해진 태풍 '솔릭''"
+		}
+	},
+	{
+		"company": "블로터",
+		"id": 6,
+		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2018/0316/nsd175350622.png",
+		"newslist": [
+			"‘삼성페이’ 3주년…6대륙 24개국에서 결제", "여름 극성수기 ‘네이버 지도’ 앱 사용 가장 많았다", "라바, 넷플릭스 오리지널 콘텐츠로 제작된다", "[BB] HTC, VR 헤드셋 ‘바이브’ 무선 어댑터 출시", "구글 위치 정보 수집 논란, 법정으로", "트위치, ‘애드프리’ 요금 인상한다"
+		],
+		"thumbnews": {
+			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9054/110822_001.jpg",
+			"text":"LGU+의 새 완전무제한 요금제, ‘데이터 78’"
+		}
+	},
+	{
+		"company": "서울경제",
+		"id": 7,
+		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd145718601.png",
+		"newslist": [
+			"'北김정은 준비 중인 열병식에서…' 위성사진 전격 공개", "400㎜ 물폭탄에 강풍…태풍 '솔릭' 수도권 직접 때린다", "'김지은 평소에…' 이상한 댓글 달다 걸린 그들의 정체", "'옷 단추가 1개밖에 안 뜯어져 강간으로 보기 어렵다'", "참 말 많은 '국민연금' 너무 내기 싫은 당신을 위한 영상", "100㎞ 떠내려갔다? '제주 실종여성' 미스터리 밝혀졌다"
+		],
+		"thumbnews": {
+			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9018/111124_001.jpg",
+			"text": "'전기요금 고지서' 보고 화들짝…'폭탄' 맞은 가구 봤더니"
+		}
+	},
+	{
+		"company": "JTBC",
+		"id": 8,
+		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd173111263.png",
+		"newslist": [
+			"폭염 전기료 평균 1만7천원↑…'폭탄' 맞은 가구 1.4%", "'아동학대' 어린이집, 국가 보조금 타는데 학부모 동원", "헌재 기밀 빼돌린 판사 검찰 출석…유출경위 추궁", "'9명 사망' 인천 남동공단 화재…경찰 수사본부 구성", "IAEA '북핵 중단 포착 못해…증기가열기 가동 흔적'", "[영상] 이번엔 한치 대란? 믿고 먹는 화사 레시피!"
+		],
+		"thumbnews": {
+			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9110/110520_001.jpg",
+			"text": "일자리 안정자금 확대…자영업자 지원대책 발표"
+		}
+	},
+	{
+		"company": "시사인",
+		"id": 9,
+		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd151929775.png",
+		"newslist": [
+			"이경미의 유쾌한 질문  ‘잘돼가? 무엇이든’", "그곳에서도 손잡아요, 잘 가요 호빵맨", "잔인한 나라에서 일군 죽산의 시대정신", "또 기무사 문건,  이번에는 대선 개입", "대한민국은 왜  ‘흑금성’을 버렸나", "양승태 대법원과 [조선일보]는 협력사?"
+		],
+		"thumbnews": {
+			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0817/article_img/9052/194411_001.jpg",
+			"text": "무더위도 돌아가는 천년 사찰에서"
+		}
+	},
+	{
+		"company": "newsis",
+		"id": 10,
+		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd14449981.png",
+		"newslist": [
+			"지난해 세금 등 국민부담률 26.9%…역대 최고", "제주 태풍특보…'여객선 결항·항공 오후부터 차질'", "이산가족 '작별상봉'…다시 기약없는 헤어짐", "日 국민연금 개혁 어떻게…30년 논의 '국민합의'", "국방백서 '북한군은 우리의 적' 문구 삭제 검토", "전두환, 광주 법정 설까…재판 출석 의사"
+		],
+		"thumbnews": {
+			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9078/111735_001.jpg",
+			"text": "소상공인·자영업자 재정지원 2조 확대"
+		}
+	}
+
+]
