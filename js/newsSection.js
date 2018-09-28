@@ -1,6 +1,5 @@
 export default class newsSection {
-    constructor(fetchUrl) {
-        this.fetchUrl = fetchUrl;
+    constructor() {
     }
 
     init(fnNewsListTemplate, fnNewsCompanyList) {

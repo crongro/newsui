@@ -18,13 +18,6 @@ const fnNewsListTemplate = ({logoImgUrl, company, thumbnews:{imageUrl}, thumbnew
     </div>`
 }
 
-const fnNewsCompanyList = (companyList) => {
-    return `
-        ${companyList.reduce((html, company) => {
-            return html + '<li> <a href="#" data-name=' + company + ' > ' + company +' </a></li>';
-        }, "")}
-    `
-}
 
-export {fnNewsListTemplate, fnNewsCompanyList}
+export {fnNewsListTemplate}
 

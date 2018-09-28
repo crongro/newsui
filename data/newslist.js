@@ -1,4 +1,4 @@
-[{
+export const newslist = [{
 	"company": "KBS",
 	"id": "056",
 	"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd173124306.png",
