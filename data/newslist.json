@@ -1,122 +1,91 @@
 [{
-		"company": "경향신문",
-		"id": 1,
-		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd14372435.png",
-		"newslist": [
-			"[속보] 서울대공원 토막살인범 범행 은폐하려 시신까지 훼손", "김부선, 오늘 경찰 출석···이재명씨 법정에서", "안희정 보좌진, 김지은씨 악플 달다가 적발", "전두환, 광주 찾아 법정에 서나···‘출석 의사’", "추미애 대법, 사법적폐 감싸고 돌면 특별법", "여친 나체 몰카 찍어 본인에게 보냈다면···"
-		],
-		"thumbnews": {
-			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9001/110520_001.jpg",
-			"text": "[속보] 부가세 면제 자영업자 늘어나고 카드수수료 인하"
-		}
-	},
-	{
-		"company": "kbs",
-		"id": 2,
-		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd173124306.png",
-		"newslist": [
-			"[뉴스특보 LIVE] 짧디 짧은 3일 이산가족 작별 상봉", "[아시안게임 LIVE] 수영 남 접영 100m, 여 접영 200m", "‘솔릭’ 오늘 제주 영향권 …내일 밤 중부 서해안 상륙 ‘큰 피해 우려’", "‘짧은 만남 기약 없는 이별’ …오늘 작별 상봉, 모레 2차 상봉", "‘솔릭’ 발생 드문 ‘도넛 태풍’…한반도로 북상해도 위력 막강", "우리 젊은이들, 어디서 일자리 찾나?"
-		],
-		"thumbnews": {
-			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9044/110220_001.jpg",
-			"text":"당정 '영세·온라인 판매업자 카드 우대수수료 적용'"
-		}
-	},
-	{
-		"company": "조선일보",
-		"id": 3,
-		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd162718792.png",
-		"newslist": [
-			"건설현장 일용직 근로자 '중국 애들 때문에…' 푸념", "軍, 국방백서에서 '북한군은 우리의 적' 문구 삭제 검토", "성인도 못 버틸 강풍, 이틀간 한반도 덮친다", "1939년 中 보고서 '서로 헐뜯는 한국인… 시기·질투 극심'", "北인사들, 南취재진에 '文대통령 지지율 왜 떨어지냐'", "[뉴스유감] 조선일보가 통계 장난? 장난친 곳은 따로 있다"
-		],
-		"thumbnews": {
-			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9007/105201_001.jpg",
-			"text": "단독 남동발전, 北 석탄 수사중 대통령상 받아 논…"
-		}
-	},
-	{
-		"company": "mbc",
-		"id": 4,
-		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd17324940.png",
-		"newslist": [
-			"카드 우대수수료 확대·상가임차인 보호 강화", "마지막 작별 상봉…다시 기약 없는 이별", "폭염 속 전기료 평균 1만 7천 원 증가", "美 '대북 '석유 불법 환적' 러시아 기업·선박 제재'", "허익범 특검 수사기간 연장 요구 오늘 결정", "[AG] 대회 나흘째…펜싱·레슬링·역도 등 金 사냥"
-		],
-		"thumbnews": {
-			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9011/111735_001.jpg",
-			"text": "태풍 '솔릭' 한반도 향해 북상…오후 제주 직접 영향권"
-		}
-	},
-	{
-		"company": "노컷뉴스",
-		"id": 5,
-		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd143958887.png",
-		"newslist": [
-			"불에 약한 샌드위치 패널···15명 사상자 냈다", "'갇혀 있다' 화재 속 딸의 마지막 목소리", "박근혜 정부도 소득주도 성장정책 추진했었다", "당정, 소상공인·자영업자 지원대책 발표", "엽총 피해자 '경찰 신고하니 '예민하게 굴지마라'", "'낙동강 녹조는 재난···수도권이라면 정권 바뀔 사건'"
-		],
-		"thumbnews": {
-			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9028/104140_001.jpg",
-			"text": "'느리게 훑고 지나간다···더 위험해진 태풍 '솔릭''"
-		}
-	},
-	{
-		"company": "블로터",
-		"id": 6,
-		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2018/0316/nsd175350622.png",
-		"newslist": [
-			"‘삼성페이’ 3주년…6대륙 24개국에서 결제", "여름 극성수기 ‘네이버 지도’ 앱 사용 가장 많았다", "라바, 넷플릭스 오리지널 콘텐츠로 제작된다", "[BB] HTC, VR 헤드셋 ‘바이브’ 무선 어댑터 출시", "구글 위치 정보 수집 논란, 법정으로", "트위치, ‘애드프리’ 요금 인상한다"
-		],
-		"thumbnews": {
-			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9054/110822_001.jpg",
-			"text":"LGU+의 새 완전무제한 요금제, ‘데이터 78’"
-		}
-	},
-	{
-		"company": "서울경제",
-		"id": 7,
-		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd145718601.png",
-		"newslist": [
-			"'北김정은 준비 중인 열병식에서…' 위성사진 전격 공개", "400㎜ 물폭탄에 강풍…태풍 '솔릭' 수도권 직접 때린다", "'김지은 평소에…' 이상한 댓글 달다 걸린 그들의 정체", "'옷 단추가 1개밖에 안 뜯어져 강간으로 보기 어렵다'", "참 말 많은 '국민연금' 너무 내기 싫은 당신을 위한 영상", "100㎞ 떠내려갔다? '제주 실종여성' 미스터리 밝혀졌다"
-		],
-		"thumbnews": {
-			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9018/111124_001.jpg",
-			"text": "'전기요금 고지서' 보고 화들짝…'폭탄' 맞은 가구 봤더니"
-		}
-	},
-	{
-		"company": "JTBC",
-		"id": 8,
-		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd173111263.png",
-		"newslist": [
-			"폭염 전기료 평균 1만7천원↑…'폭탄' 맞은 가구 1.4%", "'아동학대' 어린이집, 국가 보조금 타는데 학부모 동원", "헌재 기밀 빼돌린 판사 검찰 출석…유출경위 추궁", "'9명 사망' 인천 남동공단 화재…경찰 수사본부 구성", "IAEA '북핵 중단 포착 못해…증기가열기 가동 흔적'", "[영상] 이번엔 한치 대란? 믿고 먹는 화사 레시피!"
-		],
-		"thumbnews": {
-			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9110/110520_001.jpg",
-			"text": "일자리 안정자금 확대…자영업자 지원대책 발표"
-		}
-	},
-	{
-		"company": "시사인",
-		"id": 9,
-		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd151929775.png",
-		"newslist": [
-			"이경미의 유쾌한 질문  ‘잘돼가? 무엇이든’", "그곳에서도 손잡아요, 잘 가요 호빵맨", "잔인한 나라에서 일군 죽산의 시대정신", "또 기무사 문건,  이번에는 대선 개입", "대한민국은 왜  ‘흑금성’을 버렸나", "양승태 대법원과 [조선일보]는 협력사?"
-		],
-		"thumbnews": {
-			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0817/article_img/9052/194411_001.jpg",
-			"text": "무더위도 돌아가는 천년 사찰에서"
-		}
-	},
-	{
-		"company": "newsis",
-		"id": 10,
-		"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd14449981.png",
-		"newslist": [
-			"지난해 세금 등 국민부담률 26.9%…역대 최고", "제주 태풍특보…'여객선 결항·항공 오후부터 차질'", "이산가족 '작별상봉'…다시 기약없는 헤어짐", "日 국민연금 개혁 어떻게…30년 논의 '국민합의'", "국방백서 '북한군은 우리의 적' 문구 삭제 검토", "전두환, 광주 법정 설까…재판 출석 의사"
-		],
-		"thumbnews": {
-			"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0822/article_img/9078/111735_001.jpg",
-			"text": "소상공인·자영업자 재정지원 2조 확대"
-		}
+	"company": "KBS",
+	"id": "056",
+	"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd173124306.png",
+	"newslist": ["[팩트체크] '文 방미 때 박대당해, 외교적 참사' 사실?", "'16 vs 16' 어느 의원과 시장의 남다른 집 욕심", "중국 옥죄는 日 자위함 …한국의 선택은?", "업무 효율 높이는 '약'…커피 이렇게 마시면 좋다", "'유기농 수제'라더니… 엄마들 배신한 '미미쿠키 사건'", "[영상] 소방관 2천5백 명 투입…쿠웨이트 62층 건물 화재"],
+	"thumbnews": {
+		"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0928/article_img/9044/173053_001.jpg",
+		"text": "남북, '10·4 선언' 기념행사 2박3일 평양 개최에 의견 접근"
 	}
-
-]
+}, {
+	"company": "조선일보",
+	"id": "023",
+	"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd162718792.png",
+	"newslist": ["親전교조 교육감, '남침' 뺀 한국史 교재 배포", "靑 '규정 따라 지급' 野 '임금 보전 꼼수'", "하늘 나는 자동차, 내달 첫 예약 판매", "'男교사 절반 성폭력' 광주 D여고교사 11명 검찰 송치", "단독 北석탄 수사 미기재… 남동발전, 대통령상 취소사유", "KAI, 18조원 美 공군 고등훈련기 사업 수주전서 탈락"],
+	"thumbnews": {
+		"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0928/article_img/9007/172747_001.jpg",
+		"text": "#관절염치료 #살쑥빠짐…'SNS 장터'는 무허가 …"
+	}
+}, {
+	"company": "MBC",
+	"id": "214",
+	"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd17324940.png",
+	"newslist": ["美, 北서 발굴 한국전 국군전사자 유해 64구 송환", "남북, 10·4 기념행사 '평양에서 개최' 합의", "심재철 '회의참석수당 부당 지급' vs 靑 '허위사실'", "청와대 '유은혜 청문보고서 송부 재요청'", "소비심리지수 넉 달 만에 반등…집값 전망 급등", "'서울 아파트값, 3주 연속 상승폭 하락'"],
+	"thumbnews": {
+		"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0928/article_img/9011/172747_001.jpg",
+		"text": "폼페이오 '北 비핵화 문제, 새 시대의 새벽 밝았다'"
+	}
+}, {
+	"company": "노컷뉴스",
+	"id": "079",
+	"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd143958887.png",
+	"newslist": ["심재철은 의적인가, 도적인가", "국회 눈먼 돈 '특정업무 경비'도 공개된다", "이총리, 방명록 조작 가짜뉴스에···'야비한 짓'", "반박나선 靑 '경호원들 한파에 인당 5500원 사우나'", "10·4선언 기념식 평양서 개최···권양숙 여사 방북할까", "장애인·임산부 주차구역에 걸쳐 '황제주차'한 시의원"],
+	"thumbnews": {
+		"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0928/article_img/9028/171848_001.jpg",
+		"text": "'핵없는 한반도' 결정할 운명의 10월"
+	}
+}, {
+	"company": "블로터",
+	"id": "293",
+	"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2018/0316/nsd175350622.png",
+	"newslist": ["'익스트림 영상도 흔들림 없이'…고프로, '히어로7 블랙' 국내 출시", "[9월-4주] 블록체인 위클리", "삼성전자, '갤럭시워치 골프 에디션' 출시", "[메이커 페어 서울을 만드는 사람들] ④ 전시장 메이커, KMK렌탈", "라인, 범용 암호화폐 '링크' 10월16일 첫 공개", "오큘러스, 올인원 VR 헤드셋 '오큘러스 퀘스트' 공개"],
+	"thumbnews": {
+		"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0928/article_img/9054/154246_001.jpg",
+		"text": "[2018메이커] '아-' 하면 4초 만에 파킨슨병 진단해요"
+	}
+}, {
+	"company": "서울경제",
+	"id": "011",
+	"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd145718601.png",
+	"newslist": ["'한방에 초토화' 동해로 날아온 美 B-52 전략폭격기 왜?", "'나 어떡해' 2금융 대출금리 상승에 취약차주 '발동동'", "'아이폰XS 한판 붙어보자' 야심작 갤노트9 '실버' 드디어", "'제비'에 쑥대밭 된 日 또? 슈퍼태풍 '짜미' 경로 봤더니", "'이기면 3억 전액을…' 이재명에 소송 '김부선' 꺼낸 말", "'미미쿠키' 점점 드러나는 추악한 진실…부부의 운명은?"],
+	"thumbnews": {
+		"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0928/article_img/9018/173347_001.jpg",
+		"text": "KAI, '美 고등훈련기' 수주 실패한 결정적 이유 3가지"
+	}
+}, {
+	"company": "JTBC",
+	"id": "904",
+	"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd173111263.png",
+	"newslist": ["청와대 '동·서해선 철도연결 현지조사 내달 착수'", "'뒷좌석 안전띠' 시행 첫날'택시도 해당되나요?'", "남북, 10·4 기념행사 내달 4∼6일 평양 개최 의견접근", "KAI, 보잉 저가입찰에 미공군 훈련기 교체사업 고배", "'나 혼자 산다' 1인가구 562만명…17년새 2.5배로 늘어", "[영상] 역대급 무대 나왔다…원조가수 바다·방청객 전부 '소름'"],
+	"thumbnews": {
+		"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0928/article_img/9110/173347_001.jpg",
+		"text": "11월 선거 직후 판문점? 폼페이오 방북이 '변수'"
+	}
+}, {
+	"company": "시사인",
+	"id": "308",
+	"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd151929775.png",
+	"newslist": ["전두환씨가 법정에  서야 하는 까닭", "사법부의 불행,  나라의 불행", "국정농단 피고인들의 '슬기로운' 감방 생활?", "576/577호 배송 관련 알려드립니다", "SNS에 과시하고 싶은 베이징 그 맥줏집", "왜 일본 의원들은  '카지노법'을 좋아할까"],
+	"thumbnews": {
+		"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0928/article_img/9052/114554_001.jpg",
+		"text": "세계 최대 난민촌의 폭우"
+	}
+}, {
+	"company": "뉴시스",
+	"id": "003",
+	"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd14449981.png",
+	"newslist": ["靑 '남북 철도·도로 연결 위해 내달중 현지조사'", "우리 국민 10명중 3명 '나 혼자 산다'", "규제강화·공급대책에 서울아파트값 상승세 꺾여", "심재철-靑 충돌…'수당 부당지급' vs '법적대응'", "[알림]뉴욕서 6개국 전문가 참여 글로벌 평화포럼 개최", "강정호 '아임 컴백'···빅리그 재입성 공지"],
+	"thumbnews": {
+		"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0928/article_img/9078/172747_001.jpg",
+		"text": "'나홀로 자영업자' 매달 8만여명 줄었다"
+	}
+}, {
+	"company": "경향신문",
+	"id": "032",
+	"logoImgUrl": "https://s.pstatic.net/static/newsstand/up/2017/0424/nsd14372435.png",
+	"newslist": ["靑 이정도 비서관 '미용업 결제? 혹한기 경호인력 격려'", "'야한 만화'로 성폭력 예방하겠다는 교육청", "'문 대통령 아들 제보조작' 이준서 징역 확정", "'임산부 XXX들 뭘 자랑이라고 돌아다녀' 댓글", "[속보] 조계종 총무원장에 원행 스님 당선", "'BJ가 사람 죽이러 간다' 새벽 신고 잇따라"],
+	"thumbnews": {
+		"imageUrl": "https://s.pstatic.net/static/newsstand/2018/0928/article_img/9001/171556_001.jpg",
+		"text": "이 총리 '방명록으로 가짜뉴스···야비한 짓 멈추시길'"
+	}
+}]
